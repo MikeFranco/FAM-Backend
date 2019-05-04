@@ -17,6 +17,6 @@ app.get('/', (req, res) => res.send(`Backend Levantado en el puerto ${port}`));
 
 
 
-app.listen(port, () => console.log(`Corriendo Axend Backend en el puerto: ${port}`));
+app.listen(port, () => console.log(`Corriendo FAM Backend en el puerto: ${port}`));
 
 module.exports = { app };
