@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fam-polihacks",
+  "private_key_id": "a1fccc2c79bb3d463cb74ccd895edc95996e0c59",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCDQQErFiqMNQIQ\ntgBraesd4GdXz2EnYFRFJ4RhTB3zo+zu7hOh2cCk6HN5bmi2yT54CO2gwbg+D+T9\nJQDyehMJYuD5fLebtjecObGHdLks3bW762pI9DicGVqohFHrGyidBKkqdl6CYXR7\nKjz6FuLSahhsX1Y6mIdRc/N9Bg+Fyzv36cF0jLj6XQ+u8H73A4+4Kkpckpyh3dgz\nphHIddbjTzHPGaPg1AXjfhOU2y92E1tWU6w8M03SPLurzmSneDEX7Wz9WkfdsNAo\nFVPLEuf1WcU+ulLzUlrbnm8VC2K0bNuNFEvJ+Rf0ZFVrJ1JQODfPOYCaPl5m5dtF\nJrpDZSUbAgMBAAECggEAAnn1AC+cYOXVIqSUcHJgpcEoof7/KcOHA4EB3eYWQJUM\nsNtcEncty8648wcSwbQdUh11Ak31YHJjUyViFbEY79nmPb7NJgpzlSZ/g3s/zSln\ntuJzsGmvMb7Gt5w7gXCTPRcr6+ms0c/t5y7+VIefAvJOgKjx0wwyrWY/J1I4c8FB\ndxcZ5t1VTWc26Fa1WOV7a7jqNOTgrDU3yWIxf03JUW98DHggZ9774ytrmqXqH48Y\naM6qo0uw8tj0rds+yTzymXa876gxC395nwsL7tJskufWWP0/+6/s8JLtJFqwDaxS\ndeXiQfOhCAiJSJmtThBD9ofo0LAnty0oUoC84ppNYQKBgQC4mXEX7t+TXHr65l4+\nue1Tb1ulW8SDqTOrxGEvgV26qqb6bQiHZUAomtaatp4a1evfiPRKYNh1ZPzrmDNE\nlKkLTgQWIPh79w2EyBt32hH1AcotlByeJ4RmKfeZ+0gmsm1O3pMvdhYdl9PzUp5c\nIXPAQWX2bJxcjxiD2QXMKsCd4QKBgQC2BW6fYm575twdx04Y+81li7a/IRXSWrgL\nzjL//Oqj/bFURi8oSMXp4ZcPQ/4wX7iE1BXlVSCeI1tyVAKCoEUWlwOnUOq1gHYi\nysWWZ4+4zz6WxU2xSh2I7oxJgBLb3k9wEKvvVNd9sTpLSynZJdmuxXEgQlezg8WT\n8nuID36KewKBgHw6hulcUAmTiw+eSH5eEWC86Cf4Ad+41pUZq22U2cbtYUHWbo7v\njKXGzfWAQBY/MGVWfVAwrHsUY0EJRDc69CgvcICT36VNNUPOhu25S6xeb/kMW9Xz\nMh6uz3pIqN2h5f3Vu6eNCIUR0AlH6FqICKWxXTThErkXc6AHROeJPecBAoGAK7uO\nYpkBtp83D6iNKQ+Gv/kbhTxrw8isI5n9Quf/cDtJ2derCODDPHhJFQ/fCLxW1wMl\n553WYmhYVlW87KmZL95EsHSOj+E3gRB6/LIRI/QXM55gFlKaWgYGirpMzarSJzi6\nNpyJ0dc9DE4Y1eV0MbuafIe0DpuAYxWFfKFMY/UCgYEAg2B53hIcr9Bp/aQZsFd0\nM9gC4SVZCX0OkzW9atPsuR361+uanqc6uwN8JtAOVH4jwRBOXe4RaCP5ZBzJZQBg\nk5kB9YieTq+NbNI1jCVacSOtnclI+fYJwU+6oqqiTkjYMWF2wuLrE0hRbdl7li7Q\nkNenIO5DUfrC22yQLo1Tnuk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fam-polihacks@fam-polihacks.iam.gserviceaccount.com",
+  "client_id": "112269805763271985358",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fam-polihacks%40fam-polihacks.iam.gserviceaccount.com"
+}
