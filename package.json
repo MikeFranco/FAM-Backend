@@ -6,6 +6,7 @@
   "author": "Los binarios",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "firebase-admin": "^7.3.0"
   }
 }
