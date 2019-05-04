@@ -1,8 +1,11 @@
 {
-  "name": "FAM-Backend",
+  "name": "fam-backend",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/MikeFranco/FAM-Backend.git",
   "author": "Los binarios",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
