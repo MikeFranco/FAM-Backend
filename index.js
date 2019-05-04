@@ -13,9 +13,7 @@ app.use(bodyParser.json());
 
 app.get('/', (req, res) => res.send(`Backend Levantado en el puerto ${port}`));
 
-
-
-
+app.get('/save-money-methods');
 
 app.listen(port, () => console.log(`Corriendo FAM Backend en el puerto: ${port}`));
 
